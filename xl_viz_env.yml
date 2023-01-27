@@ -9,16 +9,11 @@ dependencies:
     - matplotlib
     - bokeh=2
     - numpy
-    - openpyxl
     - pandas
     - polars
-    - scipy
+#    - scipy
     - seaborn
-    - pip
-    - xlrd
-    - lxml
-    - cryptography
-    - simplegeneric
-    - cython
-    - geopandas
+#    - lxml
+#    - simplegeneric
+#    - cython
     - notebook
