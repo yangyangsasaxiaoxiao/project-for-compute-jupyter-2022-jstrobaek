@@ -1,11 +1,11 @@
-name: compute
+name: xl_viz
 channels:
     - conda-forge
 dependencies:
     - python=3.10
     - pip
     - ipykernel
-    - ipywidgets=7.7.2
+    - ipywidgets=7.7.1
     - matplotlib
     - bokeh=2
     - numpy
@@ -17,3 +17,7 @@ dependencies:
 #    - simplegeneric
 #    - cython
     - notebook
+    - biopython=1.79
+    - nglview
+    - pip:
+        - pdb-tools
