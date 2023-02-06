@@ -14,8 +14,6 @@ git clone https://github.com/COMPUTE-Jupyter-course/project-for-compute-jupyter-
 
 Or by downloading and unzipping [this archive](https://github.com/COMPUTE-Jupyter-course/project-for-compute-jupyter-2022-jstrobaek/archive/refs/heads/trunk.zip).
 
-## Disclaimer
+## Data
 
-I put this off until last week, and unfortunately fell ill at the end of it making me unable to finalize the the project assignment on time. I have pushed what I have for now.
-
-**I am unsure of how I make the** COMPUTE-Jupyter-course repo visible to my Zenodo account ... and didn't have time to figure it out, so for now, [here](https://drive.google.com/file/d/1C6LvIg48siHp95bZ-W46otlra1EVjaTP/view?usp=share_link) is the data. Download and unzip in the git-repo to enable Notebook execution.
+For now, the data required to reproduce the (current) analysis can be downloaded [here](https://drive.google.com/file/d/1C6LvIg48siHp95bZ-W46otlra1EVjaTP/view?usp=share_link). Unzip in the git-repo base directory to enable Notebook execution.
