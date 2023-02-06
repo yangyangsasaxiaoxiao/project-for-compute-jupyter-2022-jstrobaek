@@ -6,17 +6,10 @@ dependencies:
     - pip
     - ipykernel
     - ipywidgets=7.7.1
-    - matplotlib
-    - bokeh=2
-    - numpy
-    - pandas
-    - polars
-#    - scipy
-    - seaborn
-#    - lxml
-#    - simplegeneric
-#    - cython
     - notebook
+    - matplotlib
+    - pandas
+    - seaborn
     - biopython=1.79
     - nglview
     - pip:
